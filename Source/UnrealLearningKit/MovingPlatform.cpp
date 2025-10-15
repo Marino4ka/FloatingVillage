@@ -69,6 +69,4 @@ bool AMovingPlatform::ShouldPlatformReturn() const
 float AMovingPlatform::GetDistanceMoved() const
 {
 	return FVector::Dist(StartLocation, GetActorLocation());
-
-a`1	D6KLJH'P\[]
-'
+}
